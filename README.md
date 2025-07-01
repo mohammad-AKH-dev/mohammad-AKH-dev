@@ -8,7 +8,7 @@ I'm Mohammad Akhlaghi, a FrontEnd developer  My Interests Are web development, F
 
 - 🌱 Currently learning [Typescript](https://www.typescriptlang.org/)
 - 📫 How to reach me:
- - [LinkedIn](your-linkedin-profile-link)
+ - [LinkedIn](https://www.linkedin.com/in/mohammad-akhlaghi-08553b358/)
  - [Email](mailto:mohammadakhlaghi843@gmail.com)
  - [Instagram](https://www.instagram.com/inside._darkness)
  - [Telegram](https://t.me/Thatsme833)
@@ -25,6 +25,7 @@ I'm Mohammad Akhlaghi, a FrontEnd developer  My Interests Are web development, F
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks and Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,7 +33,7 @@ I'm Mohammad Akhlaghi, a FrontEnd developer  My Interests Are web development, F
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Currently Learning
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
