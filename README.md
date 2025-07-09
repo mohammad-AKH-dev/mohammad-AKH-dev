@@ -8,7 +8,7 @@ I'm Mohammad Akhlaghi, a FrontEnd developer  My Interests Are web development, F
 
 - 🌱 Currently learning [Typescript](https://www.typescriptlang.org/)
 - 📫 How to reach me:
- - [LinkedIn](https://www.linkedin.com/in/mohammad-akhlaghi-08553b358/)
+ - [LinkedIn](www.linkedin.com/in/mohammad-akhlaghi-08553b358)
  - [Email](mailto:mohammadakhlaghi843@gmail.com)
  - [Instagram](https://www.instagram.com/inside._darkness)
  - [Telegram](https://t.me/Thatsme833)
